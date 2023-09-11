@@ -1,5 +1,6 @@
 /**
  * Solve the FizzBuzz challenge.
+ * added this line of text to test git pull
  */
 class FizzBuzz {
 
